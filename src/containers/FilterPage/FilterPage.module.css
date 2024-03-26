@@ -1,0 +1,11 @@
+.cont {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 30px;
+	list-style-type: none;
+}
+.cont li a {
+	text-decoration: none;
+	color: #fff;
+}
